@@ -1,0 +1,7 @@
+name: cs197
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - tqdm
+prefix: C:\Users\vijay\anaconda3\envs\cs197
